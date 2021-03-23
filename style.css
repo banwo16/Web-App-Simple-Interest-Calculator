@@ -20,7 +20,8 @@ h1{color:grey;
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin:auto;   
+    margin:auto;
+    max-width:1000px;
            
     }
 /** This is the style for the highlighting of the numbers that are returned 

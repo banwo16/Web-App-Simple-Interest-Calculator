@@ -20,7 +20,7 @@ var interest = (principal * years * rate / 100)
 //Added toFixed(2) to round up the rate into 2 decimals
 
 var paragraph = ('<br>' + '<br>' + 'If you deposit ' + '<span class=highlight>'  + principal  + '</span>' + ',' + '<br>' +  'at an interest rate of ' + 
-'<span class=highlight>'  + toFixed(2).rate + '%' + '.' + '</span>'  + '<br>' + ' You will receive an amount of ' + '<span class=highlight>'  + interest + '</span>' +',' + '<br>'
+'<span class=highlight>'  + rate.toFixed(2) + '%' + '.' + '</span>'  + '<br>' + ' You will receive an amount of ' + '<span class=highlight>'  + interest + '</span>' +',' + '<br>'
 +  ' in the year '  + ('<span class=highlight>'  + ((years = (new Date().getFullYear() + (Number(document.getElementById("years").value-1)))))) + '</span>')  + '<br>';
 
 // Used a simple variable x to make the principal be only positive numbers and used

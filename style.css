@@ -1,4 +1,29 @@
-body {background-color:tan;}
-h1{color:green;}
+/** This is the style for the body **/
 
+body {background-color:black;
+       font-family:arial;
+       font color:white;
+     }
 
+/** This is the style for the heading 1  **/
+
+h1{color:grey; 
+    font-family:verdana;
+    align:center;
+    }
+
+/** This is the style for maindiv **/
+
+    .maindiv{background-color:white;
+    font color:black;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    position:center;
+    }
+/** This is the style for the highlighting of the numbers that are returned 
+from the calculation of the simple interest calculator **/
+
+.highlight {
+    background:yellow;
+}

@@ -13,9 +13,10 @@ var interest = (principal * years * rate / 100)
 
 // Used new Date().getFullYear(); to create a date for the year. I also used Number to turn a variable into an integer.
 
-// Used <span class=highlight> ### <span> to create a highlight that has the reference in css to add color to the number 
+// Used <span class=highlight> ### <span> to create a highlight that has the reference in css to add color to the number-
 
-//values returned from the simple interest calculator 
+//values returned from the simple interest calculator.
+// Used <br> to make appropriate line breaks
 
 //Added toFixed(2) to round up the interest into 2 decimals
 
@@ -24,7 +25,8 @@ var paragraph = ('<br>' + '<br>' + 'If you deposit ' + '<span class=highlight>' 
 +  ' in the year '  + ('<span class=highlight>'  + ((years = (new Date().getFullYear() + (Number(document.getElementById("years").value-1)))))) + '</span>')  + '<br>';
 
 // Used a simple variable x to make the principal be only positive numbers and used
-// focus to let the alert take the user to input the positive number 
+// focus to let the alert take the user to input the positive number
+    
 var x = document.getElementById("principal").value
 
     if( x < 1){
@@ -46,7 +48,7 @@ compute();
 
 
 // This is the second and last function to show how the range and percentage move together
-// Using InnerHTML and value to combine and make the range move with the percentage vallue. 
+// Using InnerHTML and value to combine and make the range move with the percentage value. 
 
 
 function showPercentage(){

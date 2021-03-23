@@ -14,8 +14,10 @@ var interest = (principal * years * rate / 100)
 // Used new Date().getFullYear(); to create a date for the year. I also used Number to turn a variable into an integer.
 
 // Used <span class=highlight> ### <span> to create a highlight that has the reference in css to add color to the number 
+
 //values returned from the simple interest calculator 
 
+//Added toFixed(2) to round up the rate into 2 decimals
 
 var paragraph = ('<br>' + '<br>' + 'If you deposit ' + '<span class=highlight>'  + principal  + '</span>' + ',' + '<br>' +  'at an interest rate of ' + 
 '<span class=highlight>'  + toFixed(2).rate + '%' + '.' + '</span>'  + '<br>' + ' You will receive an amount of ' + '<span class=highlight>'  + interest + '</span>' +',' + '<br>'

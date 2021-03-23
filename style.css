@@ -3,7 +3,7 @@
 body {background-color:black;
        font-family:arial;
        font color:white;
-       position:static;
+       position:property;
      
      }
 
@@ -21,7 +21,7 @@ h1{color:grey;
     width:300;
     padding:20px;
     border-radius:25px;
-    position:static;
+    position:property;
     margin: auto;
            
     }

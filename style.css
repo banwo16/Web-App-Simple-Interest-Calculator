@@ -20,9 +20,7 @@ h1{color:grey;
     width:300px;
     padding:20px;
     border-radius:25px;
-    position:fixed;
-    margin:auto;
-    height:auto;
+    position:fixed; 
     max-width:960px;
   
            

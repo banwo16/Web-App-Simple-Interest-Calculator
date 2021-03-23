@@ -18,10 +18,10 @@ h1{color:grey;
 
     .maindiv{background-color:white;
     font color:black;
-    width:300;
+    width:300px;
     padding:20px;
     border-radius:25px;
-    position:center;
+    position:absolute;
     margin: auto;
            
     }

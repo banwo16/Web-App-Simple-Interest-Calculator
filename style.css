@@ -3,6 +3,8 @@
 body {background-color:black;
        font-family:arial;
        font color:white;
+       max-width: 1500px;
+       margin: auto;
      }
 
 /** This is the style for the heading 1  **/

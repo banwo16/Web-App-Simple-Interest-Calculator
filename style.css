@@ -3,8 +3,7 @@
 body {background-color:black;
        font-family:arial;
        font color:white;
-       max-width: 1500px;
-       margin: auto;
+     
      }
 
 /** This is the style for the heading 1  **/
@@ -18,11 +17,10 @@ h1{color:grey;
 
     .maindiv{background-color:white;
     font color:black;
-    width:300px;
+    max-width:auto;
     padding:20px;
     border-radius:25px;
     position:center;
-    max-width: 1500px;
     margin: auto;
            
     }

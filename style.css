@@ -16,12 +16,11 @@ h1{color:grey;
 /** This is the style for maindiv **/
 
    .maindiv{background-color:white;
-    font color:black;
+    font color:blue;
     width:300px;
     padding:20px;
     border-radius:25px;
     margin:auto;
-    max-width:100px;
            
     }
 /** This is the style for the highlighting of the numbers that are returned 

@@ -23,8 +23,9 @@ h1{color:grey;
     margin:auto;
            
     }
+/** This width to size to fit the whole page **/
   .maindiv {
-  width: auto;
+  width:auto;
 }
 
 

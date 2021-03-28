@@ -1,4 +1,3 @@
-
 /** This is the style for the body **/
 
 body {background-color:black;
@@ -11,30 +10,19 @@ body {background-color:black;
 
 h1{color:grey; 
     font-family:verdana;
-    text-align:center;
+    align:center;
     }
 
 /** This is the style for maindiv **/
 
-   .maindiv {
-          
-    background-color:white;
+   .maindiv{background-color:white;
     font color:black;
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin:auto;
-    padding: 35px 70px 50px;
+    margin:auto;   
            
     }
-    
-
-
-
-    .footer{
-              text-align: left;
-       }
-
 /** This is the style for the highlighting of the numbers that are returned 
 from the calculation of the simple interest calculator **/
 
@@ -42,4 +30,8 @@ from the calculation of the simple interest calculator **/
     background:yellow;
 }
 
+.footer{
+    text-align:left;
+
+}
 

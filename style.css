@@ -29,8 +29,7 @@ h1{color:grey;
 
 
    .maindiv {
-       width:900px;
-       padding: 25px 50px 75px 100px;
+       text-align:middle;
 
 }
 /** This is the style for the highlighting of the numbers that are returned 

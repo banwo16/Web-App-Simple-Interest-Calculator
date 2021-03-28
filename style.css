@@ -17,7 +17,7 @@ h1{color:grey;
 
    .maindiv{background-color:white;
     font color:black;
-    width:900px;
+    width:300px;
     padding:20px;
     border-radius:25px;
     margin:auto;
@@ -29,7 +29,8 @@ h1{color:grey;
 
 
    .maindiv {
-       text-align:left + 40px;
+       width:900px;
+       text-align:left + 150px;
 
 }
 /** This is the style for the highlighting of the numbers that are returned 

@@ -17,7 +17,7 @@ h1{color:grey;
 
    .maindiv{background-color:white;
     font color:black;
-    width:900px;
+    width:300px;
     padding:20px;
     border-radius:25px;
     margin:auto;
@@ -29,7 +29,6 @@ h1{color:grey;
 
 
    .maindiv {
-       padding:50px 0;
        text-align:center;
 
 }

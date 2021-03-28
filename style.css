@@ -10,7 +10,7 @@ body {background-color:black;
 
 h1{color:grey; 
     font-family:verdana;
-    align:center;
+    text-align:center;
     }
 
 /** This is the style for maindiv **/

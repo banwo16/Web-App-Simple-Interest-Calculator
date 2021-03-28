@@ -22,13 +22,13 @@ h1{color:grey;
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin-left: auto;
-    margin-right: auto;
+    margin:auto;
+    
            
     }
     
     .maindiv {
-     width: 9000px;
+     width: 1000px;
      height: auto;
      padding-right: 200px
 }

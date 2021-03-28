@@ -21,17 +21,12 @@ h1{color:grey;
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin:auto;         
+    margin:auto; 
+    padding-left:250px;
            
-    }
-/** This is to align the text correctly in the middle of the page **/
-   .maindiv {
-       width:700px;
-       padding-left:250px;
-      
-       
-
 }
+
+
 /** This is the style for the highlighting of the numbers that are returned 
 from the calculation of the simple interest calculator **/
 

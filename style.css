@@ -21,6 +21,15 @@ h1{color:grey;
     padding:20px;
     border-radius:25px;
     margin:auto;
+             
+    }
+
+
+/** This width to size to fit the whole page **/
+  .maindiv {
+             width:2000px;
+             height:auto;
+    }
           
 
 /** This is the style for the highlighting of the numbers that are returned 

@@ -26,8 +26,8 @@ h1{color:grey;
     }
 /** This is to align the text correctly in the middle of the page **/
    .maindiv {
-       width:900px;
-       padding-left:600px;
+       width:700px;
+       padding-left:250px;
       
        
 
@@ -39,9 +39,9 @@ from the calculation of the simple interest calculator **/
     background:yellow;
 }
 
-       .footer{
-              text-align:left;
-              padding; 20px;
+  .footer{
+          text-align:left;
+          padding; 15px;
        
 
 }

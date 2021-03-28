@@ -20,10 +20,19 @@ h1{color:grey;
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin-left: auto;
-    margin-right: auto; 
+    margin:auto;
+     
            
     }
+
+
+
+
+     .maindiv {
+         max-width:900px;
+         padding: 25px 50px 75px 100px;
+
+}
 /** This is the style for the highlighting of the numbers that are returned 
 from the calculation of the simple interest calculator **/
 

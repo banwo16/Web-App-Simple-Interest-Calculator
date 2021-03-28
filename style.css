@@ -28,15 +28,13 @@ h1{color:grey;
     }
     
     .maindiv {
-     width: 1000px;
-     height: auto;
-     padding-right: 200px;
+     padding: 35px 70px 50px;
            
-       }
+    }
 
 
 
-       .footer{
+    .footer{
               text-align: left;
        }
 

@@ -25,8 +25,8 @@ h1{color:grey;
     }
 /** This width to size to fit the whole page **/
   .maindiv {
-  width:900px;
-}
+              width:900px;
+    }
 
 
 /** This is the style for the highlighting of the numbers that are returned 

@@ -30,12 +30,15 @@ h1{color:grey;
     .maindiv {
      width: 1000px;
      height: auto;
-     padding-right: 200px
-}
+     padding-right: 200px;
+           
+       }
 
-.footer{
-  text-align: left;
-}
+
+
+       .footer{
+              text-align: left;
+       }
 
 /** This is the style for the highlighting of the numbers that are returned 
 from the calculation of the simple interest calculator **/

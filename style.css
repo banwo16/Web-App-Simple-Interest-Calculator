@@ -27,8 +27,8 @@ h1{color:grey;
 
 /** This width to size to fit the whole page **/
   .maindiv {
-             width:2000px;
-             height:auto;
+             max-width:20000000px;
+             max-height:auto;
     }
           
 

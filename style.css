@@ -16,21 +16,18 @@ h1{color:grey;
 
 /** This is the style for maindiv **/
 
-   .maindiv{background-color:white;
-    position:relative;
+   .maindiv {
+          
+    background-color:white;
     font color:black;
     width:300px;
     padding:20px;
     border-radius:25px;
     margin:auto;
-    
+    padding: 35px 70px 50px;
            
     }
     
-    .maindiv {
-     padding: 35px 70px 50px;
-           
-    }
 
 
 

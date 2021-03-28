@@ -1,3 +1,4 @@
+
 /** This is the style for the body **/
 
 body {background-color:black;
@@ -16,22 +17,24 @@ h1{color:grey;
 /** This is the style for maindiv **/
 
    .maindiv{background-color:white;
+    position:relative;
     font color:black;
     width:300px;
     padding:20px;
     border-radius:25px;
     margin-left: auto;
     margin-right: auto;
-             
+           
     }
+    
+    .maindiv {
+     width: 900px;
+     height: auto;
+}
 
-
-/** This width to size to fit the whole page **/
-  .maindiv {
-             max-width:20000px;
-             max-height:auto;
-    }
-          
+.footer{
+  text-align: left;
+}
 
 /** This is the style for the highlighting of the numbers that are returned 
 from the calculation of the simple interest calculator **/
@@ -39,3 +42,5 @@ from the calculation of the simple interest calculator **/
 .highlight {
     background:yellow;
 }
+
+

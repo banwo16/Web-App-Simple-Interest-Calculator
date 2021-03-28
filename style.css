@@ -20,7 +20,7 @@ h1{color:grey;
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin:auto;   
+    margin:900px;   
            
     }
 /** This is the style for the highlighting of the numbers that are returned 
@@ -32,6 +32,7 @@ from the calculation of the simple interest calculator **/
 
 .footer{
     text-align:left;
+       
 
 }
 

@@ -29,7 +29,7 @@ h1{color:grey;
 
 
    .maindiv {
-       padding:50px 0;
+       text-align:left + 40px;
 
 }
 /** This is the style for the highlighting of the numbers that are returned 
@@ -40,7 +40,7 @@ from the calculation of the simple interest calculator **/
 }
 
 .footer{
-    padding-left:50px 0;
+    text-align:left + 20px;
        
 
 }

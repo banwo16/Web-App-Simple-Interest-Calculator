@@ -28,8 +28,9 @@ h1{color:grey;
     }
     
     .maindiv {
-     width: 900px;
+     width: 100000px;
      height: auto;
+     padding-left: 100px
 }
 
 .footer{
